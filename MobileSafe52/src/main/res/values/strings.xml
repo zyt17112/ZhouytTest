@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">手机卫士</string>
+    <string name="versionNo">版本号：1.0</string>
 </resources>
